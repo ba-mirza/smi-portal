@@ -1,3 +1,3 @@
 <template>
-<h1>Admin page</h1>
+  <h1>DASHBOARD ADMIN</h1>
 </template>

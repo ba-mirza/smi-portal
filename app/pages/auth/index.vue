@@ -26,7 +26,6 @@ const form = reactive({
   password: "",
 });
 
-
 const toAuth = (e: Event) => {
   e.preventDefault();
   console.log("auth...")
